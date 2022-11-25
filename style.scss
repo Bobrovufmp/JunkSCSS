@@ -1,0 +1,12 @@
+$fz: 100px;
+* {
+  background: azure;
+}
+.hello{
+  margin: $fz;
+  span {
+    margin: $fz;
+    color: aqua;
+    background: black;
+  }
+}

@@ -1,0 +1,14 @@
+* {
+  background: azure;
+}
+
+.hello {
+  margin: 100px;
+}
+.hello span {
+  margin: 100px;
+  color: aqua;
+  background: black;
+}
+
+/*# sourceMappingURL=style.css.map */
